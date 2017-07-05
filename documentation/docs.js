@@ -62,7 +62,7 @@ $(function () {
     }
   })
   // Skin switcher
-  var currentSkin = 'skin-blue'
+  var currentSkin = 'skin-yellow'
 
   $('#layout-skins-list [data-skin]').click(function (e) {
     e.preventDefault()

@@ -1,0 +1,57 @@
+/*
+ * Skin: Brown
+ * ---------
+ */
+@import "../../../bower_components/bootstrap/less/mixins.less";
+@import "../../../bower_components/bootstrap/less/variables.less";
+@import "../variables.less";
+@import "../mixins.less";
+
+.skin-brown {
+  //Navbar
+  .main-header {
+    .navbar {
+      .navbar-variant(@brown; #fff);
+      .sidebar-toggle {
+        color: #fff;
+        &:hover {
+          background-color: darken(@brown, 5%);
+        }
+      }
+      @media (max-width: @screen-header-collapse) {
+        .dropdown-menu {
+          li {
+            &.divider {
+              background-color: rgba(255, 255, 255, 0.1);
+            }
+            a {
+              color: #fff;
+              &:hover {
+                background: darken(@brown, 5%);
+              }
+            }
+          }
+        }
+      }
+    }
+    //Logo
+    .logo {
+      .logo-variant(darken(@brown, 5%));
+    }
+
+    li.user-header {
+      background-color: @brown;
+    }
+  }
+
+  //Content Header
+  .content-header {
+    background: transparent;
+  }
+
+  //Create the sidebar skin
+  .skin-dark-sidebar(@brown);
+}
+.skin-blue.layout-top-nav .main-header > .logo {
+  .logo-variant(@brown);
+}

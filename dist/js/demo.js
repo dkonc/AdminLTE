@@ -341,7 +341,7 @@ $(function () {
   var $skinBrown =
         $('<li />', { style: 'float:left; width: 33.33333%; padding: 5px;' })
           .append('<a href="javascript:void(0)" data-skin="skin-brown" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">'
-            + '<div><span style="display:block; width: 20%; float: left; height: 7px;" class="bg-brown-active"></span><span class="bg-brown" style="display:block; width: 80%; float: left; height: 7px;"></span></div>'
+            + '<div><span style="display:block; width: 20%; float: left; height: 7px;" class="brown"></span><span class="bg-brown" style="display:block; width: 80%; float: left; height: 7px;"></span></div>'
             + '<div><span style="display:block; width: 20%; float: left; height: 20px; background: #222d32"></span><span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span></div>'
             + '</a>'
             + '<p class="text-center no-margin" style="font-size: 12px">Brown</p>')
@@ -350,7 +350,7 @@ $(function () {
   var $skinIskratel =
         $('<li />', { style: 'float:left; width: 33.33333%; padding: 5px;' })
           .append('<a href="javascript:void(0)" data-skin="skin-Iskratel" style="display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)" class="clearfix full-opacity-hover">'
-            + '<div><span style="display:block; width: 20%; float: left; height: 7px;" class="bg-Iskratel-active"></span><span class="bg-Iskratel" style="display:block; width: 80%; float: left; height: 7px;"></span></div>'
+            + '<div><span style="display:block; width: 20%; float: left; height: 7px;" class="bg-blue-active"></span><span class="bg-blue" style="display:block; width: 80%; float: left; height: 7px;"></span></div>'
             + '<div><span style="display:block; width: 20%; float: left; height: 20px; background: #f9fafc"></span><span style="display:block; width: 80%; float: left; height: 20px; background: #f4f5f7"></span></div>'
             + '</a>'
             + '<p class="text-center no-margin" style="font-size: 12px">Iskratel</p>')

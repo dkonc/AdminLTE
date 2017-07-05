@@ -5348,9 +5348,9 @@ a.list-group-item-success.active:hover,
 button.list-group-item-success.active:hover,
 a.list-group-item-success.active:focus,
 button.list-group-item-success.active:focus {
-  color: #fff;
-  background-color: #3c763d;
-  border-color: #3c763d;
+  color: #37CC56;
+  background-color:#37CC56;
+  border-color: #37CC56;
 }
 .list-group-item-info {
   color: #31708f;
@@ -5358,7 +5358,7 @@ button.list-group-item-success.active:focus {
 }
 a.list-group-item-info,
 button.list-group-item-info {
-  color: #31708f;
+  color: #37CC56;
 }
 a.list-group-item-info .list-group-item-heading,
 button.list-group-item-info .list-group-item-heading {
@@ -5368,8 +5368,8 @@ a.list-group-item-info:hover,
 button.list-group-item-info:hover,
 a.list-group-item-info:focus,
 button.list-group-item-info:focus {
-  color: #31708f;
-  background-color: #c4e3f3;
+  color: #37CC56;
+  background-color: #37CC56;
 }
 a.list-group-item-info.active,
 button.list-group-item-info.active,
@@ -5378,8 +5378,8 @@ button.list-group-item-info.active:hover,
 a.list-group-item-info.active:focus,
 button.list-group-item-info.active:focus {
   color: #fff;
-  background-color: #31708f;
-  border-color: #31708f;
+  background-color: #37CC56;
+  border-color: #37CC56;
 }
 .list-group-item-warning {
   color: #8a6d3b;
@@ -5387,7 +5387,7 @@ button.list-group-item-info.active:focus {
 }
 a.list-group-item-warning,
 button.list-group-item-warning {
-  color: #8a6d3b;
+  color: #37CC56;
 }
 a.list-group-item-warning .list-group-item-heading,
 button.list-group-item-warning .list-group-item-heading {

@@ -29,7 +29,7 @@
   color: #fff;
 }
 .skin-brown .main-header .navbar .sidebar-toggle:hover {
-  background-color: #6b3232;
+  background-color: #7c3a3a;
 }
 @media (max-width: 767px) {
   .skin-brown .main-header .navbar .dropdown-menu li.divider {
@@ -39,16 +39,16 @@
     color: #fff;
   }
   .skin-brown .main-header .navbar .dropdown-menu li a:hover {
-    background: #6b3232;
+    background: #7c3a3a;
   }
 }
 .skin-brown .main-header .logo {
-  background-color: #6b3232;
+  background-color:#7c3a3a;
   color: #fff;
   border-bottom: 0 solid transparent;
 }
 .skin-brown .main-header .logo:hover {
-  background-color: #673030;
+  background-color: #7c3a3a;
 }
 .skin-brown .main-header li.user-header {
   background-color: #7c3a3a;
@@ -66,8 +66,8 @@
   color: #fff;
 }
 .skin-brown .sidebar-menu > li.header {
-  color: #4b646f;
-  background: #1a2226;
+  color: #7c3a3a;
+  background: #7c3a3a;
 }
 .skin-brown .sidebar-menu > li > a {
   border-left: 3px solid transparent;
@@ -76,14 +76,14 @@
 .skin-brown .sidebar-menu > li.active > a,
 .skin-brown .sidebar-menu > li.menu-open > a {
   color: #fff;
-  background: #1e282c;
+  background: #7c3a3a;
 }
 .skin-brown .sidebar-menu > li.active > a {
   border-left-color: #7c3a3a;
 }
 .skin-brown .sidebar-menu > li > .treeview-menu {
   margin: 0 1px;
-  background: #2c3b41;
+  background: #7c3a3a;
 }
 .skin-brown .sidebar a {
   color: #b8c7ce;
@@ -106,7 +106,7 @@
 .skin-brown .sidebar-form input[type="text"],
 .skin-brown .sidebar-form .btn {
   box-shadow: none;
-  background-color: #374850;
+  background-color: #7c3a3a;
   border: 1px solid transparent;
   height: 35px;
 }
@@ -119,7 +119,7 @@
 }
 .skin-brown .sidebar-form input[type="text"]:focus,
 .skin-brown .sidebar-form input[type="text"]:focus + .input-group-btn .btn {
-  background-color: #fff;
+  background-color: #7c3a3a;
   color: #666;
 }
 .skin-brown .sidebar-form input[type="text"]:focus + .input-group-btn .btn {

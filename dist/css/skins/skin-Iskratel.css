@@ -83,7 +83,7 @@
 }
 .skin-Iskratel .sidebar-menu > li:hover > a,
 .skin-Iskratel .sidebar-menu > li.active > a {
-  color: #000;
+  color: #429ADC;
   background: #f4f4f5;
 }
 .skin-Iskratel .sidebar-menu > li.active {
@@ -106,7 +106,7 @@
 }
 .skin-Iskratel .sidebar-menu .treeview-menu > li.active > a,
 .skin-Iskratel .sidebar-menu .treeview-menu > li > a:hover {
-  color: #000;
+  color: #429ADC;
 }
 .skin-Iskratel .sidebar-menu .treeview-menu > li.active > a {
   font-weight: 600;
